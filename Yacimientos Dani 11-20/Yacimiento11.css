@@ -9,7 +9,7 @@ header{
 }
 
 footer {
-    background-color: rgb(44, 41, 41);
+    background-image: url(fondo2.jpg);
     position: absolute;
     display: inline-block;
     bottom: 0;
