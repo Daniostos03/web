@@ -2,3 +2,12 @@ h1{
     text-align: center;
 }
 
+footer {
+    background-color: rgb(65, 68, 68);
+    position: absolute;
+    display: inline-block;
+    bottom: 0;
+    width: 100%;
+    height: 32px;
+    color: rgb(255, 248, 248);
+}
