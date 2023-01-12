@@ -1,13 +1,21 @@
 h1{
     text-align: center;
+    color: white;
+}
+header{
+    background-image: url(fondo2.jpg);
+    height: 50px;
+    
 }
 
 footer {
-    background-color: rgb(65, 68, 68);
+    background-color: rgb(44, 41, 41);
     position: absolute;
     display: inline-block;
     bottom: 0;
     width: 100%;
-    height: 32px;
+    height: 30px;
     color: rgb(255, 248, 248);
+
 }
+
