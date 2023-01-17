@@ -19,3 +19,20 @@ footer {
 
 }
 
+.imagen{
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    border: 4px solid black;
+
+}
+
+.contenedor{
+    display: flex;
+}
+
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+
