@@ -8,7 +8,8 @@
   <link rel="stylesheet" href="Yacimiento11.css">
 </head>
 <body>
-  <header>
+  
+  <header class="header">
     <h1 class="titulo">Yacimientos en Baleares</h1>
     <hr>
   </header>
@@ -30,12 +31,34 @@
 </div>
 
 <div class="contenedor">
-  <video src="video.mp4" class="video" controls autoplay >
+  <video src="video.mp4" class="video" controls autoplay muted>
   </video>
-  <p class="texto2"></p>
-  <br>
+  <p class="texto2">En aquest petit fragment de vídeo, podrem observar un dels jaciments més importants de balears en el seu màxim esplendor, de la mà del seu creador Toni miquel, el qual publico aquest meravellós vídeo al seu canal de <a href="https://www.youtube.com/@sopau1" target="_blank">Youtube</a>.</p>
 </div>
 
+<div class="Encuesta">
+  <form action="http://127.0.0.1:3000/Yacimientos%20Dani%2011-20/Yacimiento11.html" method="post">
+    <header><h2>Tu opinion es importante!</h2></header>
+    <ul>
+     <li>
+       <label for="name">Nombre:</label>
+       <input type="text" id="name" name="user_name">
+     </li>
+     <li>
+       <label for="mail">Correo electrónico:</label>
+       <input type="email" id="mail" name="user_mail">
+     </li>
+     <li>
+       <label for="msg">Mensaje:</label>
+       <textarea id="msg" name="user_message"></textarea>
+     </li>
+    </ul>
+    <li class="button">
+      <button type="submit">Envíe su mensaje</button>
+    </li>
+   </form>
+  </div>
   
+sdvdsfasdfafsdffsadfdasffdasdf
 </body>
 </html>
