@@ -10,12 +10,12 @@ header{
 
 footer {
     background-image: url(fondo2.jpg);
-    position: absolute;
-    display: inline-block;
+    position:absolute;
     bottom: 0;
     width: 100%;
     height: 30px;
     color: rgb(255, 248, 248);
+
 
 }
 
@@ -36,3 +36,26 @@ h2{
     text-align: center;
 }
 
+.texto{
+    background-color: rgb(211, 228, 114);
+    border: 2px dotted black;
+    margin: 20px;
+    margin-left: 0px;
+
+}
+
+body{
+    position: relative;
+}
+
+.video{
+    
+
+    height: 250px;
+    height: 240px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin: 20px;
+    margin-bottom: 200px;
+
+}
