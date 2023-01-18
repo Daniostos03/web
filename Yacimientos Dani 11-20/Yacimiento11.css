@@ -2,7 +2,7 @@ h1{
     text-align: center;
     color: white;
 }
-header{
+.header{
     background-image: url(fondo2.jpg);
     height: 50px;
     
@@ -58,4 +58,23 @@ body{
     margin: 20px;
     margin-bottom: 200px;
 
+}
+
+.Encuesta{
+    text-align: center;
+    position: absolute;
+    top: 470px;
+    left: 960px;
+    border: 1px solid ;
+    border-radius: 40px;
+    
+    
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    list-style: none;
 }
