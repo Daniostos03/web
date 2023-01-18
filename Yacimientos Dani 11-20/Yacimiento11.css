@@ -84,7 +84,20 @@ li{
 
 .siguiente{
     text-align: center;
-    margin: 20px;
-    
 }
 
+.b1{
+    
+    margin: 20px;
+    transition: all .3s;
+    background: linear-gradient(180deg, #90fc02 0%, #41f115 100%);
+
+
+}
+
+.b1{
+    transition: all .3s;
+    background: linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
+
+
+}
