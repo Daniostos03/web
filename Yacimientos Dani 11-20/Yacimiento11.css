@@ -59,7 +59,7 @@ body{
     margin-left: 20px;
     margin-top: 20px;
     margin: 20px;
-    margin-bottom: 200px;
+    
 
 }
 
@@ -99,5 +99,5 @@ li{
     transition: all .3s;
     background: linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
 
-
 }
+
