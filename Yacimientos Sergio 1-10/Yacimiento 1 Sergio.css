@@ -1,3 +1,8 @@
+
+
+*{font-family:Arial, Helvetica, sans-serif;
+}
+
 h1{
     text-align: center;
     color: white;
@@ -64,13 +69,23 @@ body{
 }
 
 .Encuesta{
-    text-align: center;
+    text-align: left;
     position: absolute;
-    top: 470px;
+    top: 550px;
     left: 960px;
     border: 1px solid ;
-    border-radius: 40px;
+    border-radius: 10px;
     
+    
+}
+.boton{
+    text-decoration:double;
+}
+
+.plano{
+    width: 400px;
+    height: 250px;
+   
     
 }
 
