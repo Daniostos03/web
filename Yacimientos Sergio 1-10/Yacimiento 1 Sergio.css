@@ -64,22 +64,22 @@ body{
     margin-left: 20px;
     margin-top: 20px;
     margin: 20px;
-    margin-bottom: 200px;
+  
 
 }
 
 .Encuesta{
     text-align: left;
     position: absolute;
-    top: 550px;
-    left: 960px;
+    top: 950px;
+    left: 660px;
     border: 1px solid ;
     border-radius: 10px;
     
     
 }
 .boton{
-    text-decoration:double;
+    text-align: center;
 }
 
 .plano{
