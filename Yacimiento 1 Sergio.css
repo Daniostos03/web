@@ -61,7 +61,7 @@ body{
 .video{
     
 
-    width: 1125px;
+    width: 600px;
     height: 300px;
     margin-left: 20px;
     margin-top: 20px;
@@ -135,4 +135,6 @@ a{
 }
 .textoplano{
     padding:40px ;
+}
+
 }
