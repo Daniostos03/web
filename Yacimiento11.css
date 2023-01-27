@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
 h1{
     text-align: center;
     color: white;
@@ -43,12 +45,14 @@ h2{
     border: 2px dotted black;
     margin: 20px;
     margin-left: 0px;
+    font-family: 'Alegreya', serif;
 
 }
 
 body{
     position: relative;
     background-color: rgb(236, 229, 187);
+    font-family: 'Alegreya', serif;
 }
 
 .video{
@@ -59,7 +63,7 @@ body{
     margin-left: 20px;
     margin-top: 20px;
     margin: 20px;
-    margin-bottom: 200px;
+    
 
 }
 
@@ -99,5 +103,18 @@ li{
     transition: all .3s;
     background: linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
 
+}
 
+.contenedorimagen{
+    display: flex;
+}
+
+.imagenarta{
+    width: 430px;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: darkcyan;
 }
