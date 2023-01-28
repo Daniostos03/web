@@ -58,3 +58,11 @@ li{
     padding-bottom: 20px;
 
 }
+#boton{
+    display: inline-block;
+    padding-left: 700px;
+}
+.b1{
+    transition: all .3s;
+    background: linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
+}
